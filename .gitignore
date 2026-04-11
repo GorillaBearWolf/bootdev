@@ -12,6 +12,10 @@ uv.lock
 .env
 
 
+# Files
+game_state.jsonl
+
+
 # Icon must end with two \r
 Icon
 
