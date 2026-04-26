@@ -1,0 +1,1 @@
+aws ec2 attach-internet-gateway --vpc-id "vpc-03f50b4f1bc61910e" --internet-gateway-id "igw-0606430673b312ad1" --region us-east-1
