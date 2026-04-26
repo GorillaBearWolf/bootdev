@@ -26,7 +26,7 @@ def main():
         contents=messages,
     )
 
-    if " ".join(args).endswith("--verbose"):
+    if " ".join(args).endswith(" --verbose"):
         ptokens = response.usage_metadata.prompt_token_count
         rtokens = response.usage_metadata.candidates_token_count
 
